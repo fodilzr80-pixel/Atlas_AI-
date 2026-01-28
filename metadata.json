@@ -1,0 +1,9 @@
+{
+  "name": "Atlas AI",
+  "description": "A cutting-edge AI assistant designed by Fodil Zerrouali, featuring text chat, vision analysis, video generation, and real-time voice/video conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
